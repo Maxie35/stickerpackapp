@@ -1,0 +1,30 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Testpack",
+      "publisher": "Maxoeflax",
+      "tray_image_file": "tray_icon.jpg",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "bj_1.webp",
+          "emojis": ["😎"]
+        },
+        {
+          "image_file": "coen_1.webp",
+          "emojis": ["🤔"]
+        },
+        {
+          "image_file": "jisk_1.webp",
+          "emojis": ["😁"]
+        }
+      ]
+    }
+  ]
+}
